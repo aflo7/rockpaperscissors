@@ -1,3 +1,3 @@
-![info] (outcome.png)
+![info] (./outcome.png)
 
-![info2] (ss.png)
+![info2] (./ss.png)
